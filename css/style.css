@@ -1,17 +1,27 @@
 
-        
+        <!-- intro -->
         .intro {
             font-style: italic;
-            font-size: 18px;
+            font-size: 20px;
             text-align: center;
             letter-spacing: 0.5px;
-            color: rgba(49, 48, 44, 0.71);
+            color: rgba(51, 50, 45, 0.71);
         }
-    
+
+    <!--Layout-->
+
     body {
-        background: #fcf4dc; 
+        background: #ebeada; 
         font-family: 'Libre Baskerville', serif;
         color: rgba(49, 48, 44, 0.71);
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    section {
+        width: 1000px;
+        margin: 0 auto;  
+        
     }
         
     h1, h2, h3 {
@@ -21,23 +31,22 @@
     }
         
      h1 {
-        font-size: 36px;
+        font-size: 50px;
         text-transform: uppercase;
         letter-spacing: 3px;
         padding: 20px 40px 30px 70px;
           
      }
         
-    }
+    
     
      h2 {
-        font-size: 100px;
-        font-style: oblique;     
+        font-size: 30px;
+         
     }
 
     h2.title {
-        font-size: 28px;
-        color: rgba(23, 21, 21, 0.63);
+        font-size: 30px;
         font-weight: bold;
     }
     
@@ -46,7 +55,7 @@
         }
         
         a {
-            color: teal;
+            color: #0a6262;
             text-decoration: none;
             text-transform: uppercase;
             letter-spacing: 1px;
@@ -81,6 +90,7 @@
         
         p { 
             text-align:center;
+            font-size: 15px;
              
             
         }
@@ -109,9 +119,11 @@
         
         blockquote {
             text-align: justify, center;
+            font-weight: 500
+            font-size: 30px;
             letter-spacing: 1px;
             color: rgba(15, 13, 13, 0.71);
-            font-style: oblique;
+            
         }
         
          p.conditions {
