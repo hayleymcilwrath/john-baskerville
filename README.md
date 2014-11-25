@@ -13,3 +13,5 @@ AAD115 John Baskerville Project
 
 [version 5](https://hayleymcilwrath.github.io/john-baskerville/version_5.html)
 
+[version 6](https://hayleymcilwrath.github.io/john-baskerville/version_6.html)
+
