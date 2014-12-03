@@ -23,6 +23,6 @@ AAD115 John Baskerville Project
 
 [version 7](https://hayleymcilwrath.github.io/john-baskerville/version_7.html) - Reset all the style and chnaged the styleshee. Also added in responsive features and to images.
 
-[version 8](https://hayleymcilwrath.github.io/john-baskerville/version_8.html) - My own version
+[my version 8](https://hayleymcilwrath.github.io/john-baskerville/version_8.html) - My own version
 
 
