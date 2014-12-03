@@ -4,6 +4,7 @@ john-baskerville
 AAD115 John Baskerville Project 
 
 [version 1](https://hayleymcilwrath.github.io/john-baskerville/version_1.html) - Marked up text as HTML5.
+                                                                                --------------------------
 
 [version 2](https://hayleymcilwrath.github.io/john-baskerville/version_2.html) - Added images and lists.
 
